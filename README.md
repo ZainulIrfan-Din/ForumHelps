@@ -1,4 +1,4 @@
-## ForumHelps
+# ForumHelps
    An Outsystems module that links and redirects all my applications for Outsystems forum.
 
 ## WeightageDropdown
